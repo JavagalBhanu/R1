@@ -8,5 +8,6 @@ public class Demo {
 	@Test
 	public void testA() {
 		Reporter.log("Hi",true);
+		//hi
 	}
 }
